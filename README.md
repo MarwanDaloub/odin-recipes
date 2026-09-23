@@ -1,1 +1,2 @@
 # odin-recipes
+First project based on my understanding of HTML language, where a recipe website is implemented to show and teach viewers various type of recipes and how to make them with ingredients lists and more!.
